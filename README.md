@@ -53,7 +53,7 @@ Here are some of my favorites:
 
 Feel free to reach out to me for collaborations, gaming, or just to chat about tech and anime!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apostolos-petrokokkinos/) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=www&logoColor=white)](https://petrokokkinos.gr) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apostolos-petrokokkinos/) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=www&logoColor=white)](https://petrokokkinos.gr)
 
 ---
 
