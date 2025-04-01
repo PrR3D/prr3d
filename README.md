@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **PrRed**!
+# 👋 Hi, I'm **Apostolos**!
 
 Welcome to my GitHub profile! I'm a passionate **tech enthusiast**, **gamer**, and **community Moderator** who loves diving into hardware, building PCs, and creating awesome projects. When I'm not coding, you'll find me gaming, watching movies, series, or anime, or learning about the latest tech trends.
 
