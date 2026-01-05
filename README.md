@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **tech enthusiast**, **gamer**, a
 - 🖥️ **Tech Hobbyist:** I love learning about hardware, building PCs, and staying up-to-date with the latest tech innovations.
 - 🎥 **Movie & Anime Buff:** In my free time, I enjoy watching movies, binge-watching series, and exploring the world of anime.
 - 🕹️ **Gamer at Heart:** Gaming is my passion, and I’m actively involved in the gaming community.
-- 🌈 **Rainbow Six Greece:** I’m proud to be part of the **Rainbow Six Greece** community, officially verified by Ubisoft! My role includes creating videos for the community, managing tasks, organizing tournaments, events, giveaways with my friends.
+- 🌈 **CoreSix:** I’m proud to be part of the **Core Six** a community about Rainbow Six Siege in Greece, officially verified by Ubisoft! My role includes creating videos for the community, managing tasks, organizing tournaments, events, giveaways with my friends.
 
 ---
 
