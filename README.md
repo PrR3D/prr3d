@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Apostolos**!
+# 👋 Hi, my name is **Apostolos**!
 
 Welcome to my GitHub profile! I'm a passionate **tech enthusiast**, **gamer**, and **community Moderator** who loves diving into hardware, building PCs, and creating awesome projects. When I'm not coding, you'll find me gaming, watching movies, series, or anime, or learning about the latest tech trends.
 
@@ -25,7 +25,8 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I’ve worked on:
 
-- 🤖 **[DiscordBotCustomMailManager](https://github.com/PrR3D/DiscordBotCustomMailManager):** A Discord Bot managing emails from cloud database for my portfolio (Developed with Python). 
+- 📈 ##[AiStockViewerApp](https://github.com/PrR3D/AiStocksViewer):** This is an app where you can search for a stock and see its prices (simulated).
+- 🤖 **[DiscordBotCustomMailManager](https://github.com/PrR3D/DiscordBotCustomMailManager):** A Discord Bot managing emails from cloud database for my portfolio (Developed with Python).
 - ⛅ **[WeatherApp](https://github.com/PrR3D/WeatherApp):** This is an app that tells you the Weather of the city you like.
 - 👾 **[Attack_in_Space](https://github.com/PrR3D/Python_Attack_in_Space):** A High School personal project. Its a 2D game.
 
