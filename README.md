@@ -1,6 +1,6 @@
 # 👋 Hi, my name is **Apostolos**!
 
-Welcome to my GitHub profile! I'm a passionate **tech enthusiast**, **gamer**, and **community Moderator** who loves diving into hardware, building PCs, and creating awesome projects. When I'm not coding, you'll find me gaming, watching movies, series, or anime, or learning about the latest tech trends.
+Welcome to my GitHub profile! I'm a passionate **tech enthusiast**, **gamer** who loves diving into hardware, building PCs, and creating awesome projects. When I'm not coding, you'll find me gaming, watching movies, series, or anime, or learning about the latest tech trends.
 
 ---
 
@@ -51,7 +51,7 @@ Here are some of my favorites:
 
 ## 🤝 **Let's Connect!**
 
-Feel free to reach out to me for collaborations, gaming, or just to chat about tech and anime!
+Feel free to reach out to me for collaborations, or just to chat about games, tech and anime!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apostolos-petrokokkinos/) [![Portfolio](https://img.shields.io/badge/-Portfolio-FF0000?style=flat-square&logo=www&logoColor=white)](https://petrokokkinos.gr)
 
