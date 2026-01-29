@@ -25,10 +25,11 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I’ve worked on:
 
-- 📈 **[AiStockViewerApp](https://github.com/PrR3D/AiStocksViewer):** This is an app where you can search for a stock and see its prices (simulated).
-- 🤖 **[DiscordBotCustomMailManager](https://github.com/PrR3D/DiscordBotCustomMailManager):** A Discord Bot managing emails from cloud database for my portfolio (Developed with Python).
-- ⛅ **[WeatherApp](https://github.com/PrR3D/WeatherApp):** This is an app that tells you the Weather of the city you like.
-- 👾 **[Attack_in_Space](https://github.com/PrR3D/Python_Attack_in_Space):** A High School personal project. Its a 2D game.
+- 📈 **[AiStockViewerApp](https://github.com/PrR3D/AiStocksViewer):** This is an app where you can search for a stock and see its prices (simulated)(CSharp).
+- 🤖 **[DiscordBotCustomMailManager](https://github.com/PrR3D/DiscordBotCustomMailManager):** A Discord Bot managing emails from cloud database for my portfolio (Python).
+- ⛅ **[WeatherApp](https://github.com/PrR3D/WeatherApp):** This is an app that tells you the Weather of the city you like (CSharp).
+- 👾 **[Attack_in_Space](https://github.com/PrR3D/Python_Attack_in_Space):** A High School personal project. Its a 2D game (Python).
+- 💲 **[ConsoleGame](https://github.com/PrR3D/HighSchool_Mini_Console_Game):** A High School personal project. Its a Console game (simulated)(Python).
 
 ---
 <!--
