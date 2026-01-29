@@ -31,15 +31,15 @@ Here are some of the projects I’ve worked on:
 - 👾 **[Attack_in_Space](https://github.com/PrR3D/Python_Attack_in_Space):** A High School personal project. Its a 2D game.
 
 ---
-
+<!--
 ## 📈 **GitHub Stats**
 
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrR3D&show_icons=true&theme=radical) -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrR3D&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrR3D&layout=compact&theme=radical)
 
 ---
-
+-->
 ## 🎥 **Favorite Movies, Series & Anime**
 
 Here are some of my favorites:
